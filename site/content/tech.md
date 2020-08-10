@@ -5,6 +5,7 @@ draft: false
 ---
 
 # [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+# Hello World
 
 ## A Hugo boilerplate for creating truly epic websites
 
